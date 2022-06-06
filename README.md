@@ -4,8 +4,8 @@
 #### You can install the library here  
 > pip install pyzk  
 #### There is some data processing, namely, fetching the attendence records aswell as user data and merging the two into a pandas dataframe.  
-  
-  
+<br>
+<br>
 ##Data Upload
 ####The processed dataframe is then uploaded to a postgres database on the localhost.
 
