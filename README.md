@@ -6,6 +6,6 @@
 #### There is some data processing, namely, fetching the attendence records aswell as user data and merging the two into a pandas dataframe.
 <br>
 <br>
-<H1> Data Upload </H1>
-<H2> The processed dataframe is then uploaded to a postgres database on the localhost. </H2>
+<H2> Data Upload </H2>
+<H3> The processed dataframe is then uploaded to a postgres database on the localhost. </H3>
 
